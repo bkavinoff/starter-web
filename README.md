@@ -12,3 +12,6 @@ As stated before, the main purpose of this project is to provide simple examples
 ## Deploy
  
 ## How to contributeeee
+
+### Copyright
+BK
