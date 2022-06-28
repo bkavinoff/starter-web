@@ -7,6 +7,8 @@ This is an example to show different parts of the git repository and various com
 
 ## Purpose
 
+As stated before, the main purpose of this project is to provide simple examples for git training demos
+
 ## Deploy
 
 ## How to contribute
