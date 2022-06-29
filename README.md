@@ -15,4 +15,4 @@ As stated before, the main purpose of this project is to provide simple examples
 ## How to contributeeee
 
 ### Copyright
-BK
+BK All rights reserved
