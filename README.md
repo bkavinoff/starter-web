@@ -1,6 +1,6 @@
 # Starter Web Repository
 This is a sample project to show how to work with GIT and GITHUB together
-adding al ine for rebasing example, more changes from myfeature branch
+adding al ine for rebasing example, updating emergency fix
 
 ## Introduction
 
